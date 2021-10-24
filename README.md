@@ -3,17 +3,15 @@ PROJECT NAME -: Restaurant-data-analysis
 
 Table of Content-:
 
-*Reason to Choose these Project
+1) Reason to Choose these Project
 
-*Libraries which are used in these project
+2) Libraries which are used in these project
 
-*Graph which are used
+3) Graph which are used
 
-*Workdone
+4) Workdone
 
-*Conclusion
-
-*Result
+5) Conclusion
 
 1)Reason to Choose these Project-: Analysis of restaurant data is important to grow up business accordingly by seeing various parameter.
 
@@ -45,7 +43,8 @@ Table of Content-:
 
 
 
-Conclusion-:
+5) Conclusion-:
+
 1. Total bill is more during dinner time.
 2. Total bill is more on sunday.
 3. Tip amount is more during dinner time.
