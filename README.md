@@ -15,7 +15,7 @@ Table of Content-:
 
 1)Reason to Choose these Project-: Analysis of restaurant data is important to grow up business accordingly by seeing various parameter.
 
-2)Pandas Methods which are used in these project-: Pandas, Matplotlib, Seaborn
+2)Python libraries which are used in these project-: Pandas, Matplotlib, Seaborn
 
 3)Graph which are used-: Bar plot, Scatter plot, Dist plot, Pair plot, histogram
 
@@ -23,9 +23,9 @@ Table of Content-:
 
 4)Workdone-:
 
-*We checked how many bills for dinner and lunch and mapped it in bar plot.
+*We checked how many bills for dinner/lunch and mapped it in bar plot.
 
-*By using mean function we checked tip with respect to time i.e. dinner and lunch, from this we analyzed more value during dinner.
+*By using mean function we checked tip with respect to time i.e. dinner/lunch, from this we analyzed more value during dinner.
 
 *By using groupby function we mapped tip value in bar plot.
 
